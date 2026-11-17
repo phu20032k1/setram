@@ -1,4 +1,4 @@
-name: Deploy demo to GitHub Pages
+name: Deploy transport UI to GitHub Pages
 on:
   push:
     branches: [main]

@@ -1,6 +1,6 @@
-# Transport UI Demo
+# Transport UI Preview
 
-Interactive mobile web interface based on provided screenshot references. This is **not an official transport application**. The sample ticket-validation history contains fictional dates in December 2026 and is marked **DEMO — NOT VALID FOR TRAVEL**.
+Interactive mobile web interface based on provided screenshot references. This is **not an official transport application**. The sample ticket-validation history contains fictional dates in December 2026 and is marked **SAMPLE DATA — NOT VALID FOR TRAVEL**.
 
 ## Main screens
 
